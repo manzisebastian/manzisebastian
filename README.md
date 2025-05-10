@@ -12,7 +12,6 @@ Some things you should know about me:
 - I’ve worked on projects involving **economic analysis**, **geospatial data science**, and **interactive data visualizations**  
 - I’m proficient in **Python** and **R**
 - My work and interest lies on the intersection of **data**, **economics**, and **technology**
-- Huge [Racing Club de Avellaneda](https://en.wikipedia.org/wiki/Racing_Club_de_Avellaneda) fan
 
 ## In my toolbox
 
@@ -57,7 +56,7 @@ Some things you should know about me:
 - Machine Learning with Scikit-Learn and XGBoost  
 - Deep Learning fundamentals with TensorFlow and PyTorch  
 - Applications of LLMs and transformers in economics  
-- Interactive dashboards in R (Streamlit, Dash)
+- Interactive apps in R (Shiny)
 
 ## Let’s Connect
 
