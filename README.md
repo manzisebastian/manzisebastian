@@ -62,8 +62,6 @@ Some things you should know about me:
 
 Do you have a question? A collaboration idea? Want to chat about data, economics, or tech? Want to (hopefully constructively) critique my code? Feel free to reach out.
 
-Have a question, a collaboration idea, or just want to talk data, economics, or tech? I'm always open to meaningful conversations. whether it's brainstorming projects, exchanging insights, or even constructively critiquing my code.
-
 - Email: [manzisebastian00@gmail.com](mailto:manzisebastian00@gmail.com)
 - Website: [manzisebastian.github.io](https://manzisebastian.github.io)
 - LinkedIn: [manzisebastian](https://www.linkedin.com/in/manzisebastian)
